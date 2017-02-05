@@ -4,7 +4,7 @@ import {
 
 const lessonStyles = StyleSheet.create({
   lesson: {
-    padding: 5,
+    padding: 10,
     borderBottomWidth: 0.5,
     borderColor: '#CCC'
   },
@@ -39,7 +39,7 @@ const lessonStyles = StyleSheet.create({
   },
   lesson__type: {
     fontStyle: 'italic',
-    textAlign: 'right',
+    textAlign: 'center',
     flex: 0.1
   },
   lesson__location: {
